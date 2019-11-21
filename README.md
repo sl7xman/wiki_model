@@ -1,0 +1,1 @@
+init wiki_model
